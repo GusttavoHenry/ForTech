@@ -14,7 +14,7 @@
 
 ## 📝 Descrição 
 
-Proeto feito em faculdade, cada grupo teve que fazer uma empresa. Para mais detalhes, clicar no botão abaixo.
+Projeto feito em faculdade, cada grupo teve que fazer uma empresa. Para mais detalhes, clicar no botão abaixo.
  
 <a href="https://drive.google.com/file/d/1vTPbVhIGbE3b7sOLe5hRzvFsylipH6u4/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
 
