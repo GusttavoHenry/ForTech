@@ -8,23 +8,25 @@
 
 <br>
 
-![Resultado final do projeto](https://raw.githubusercontent.com/EvanderInacio/Portfolio/main/public/projects/portfolio/thumb.png)
+![Resultado final do projeto](https://cdn.discordapp.com/attachments/596677178343817236/1049175180578127903/final.png)
 
 <br>
 
 ## 📝 Descrição 
 
-Meu portfólio criado com o objetivo de mostrar meus projetos. 
+Proeto feito em faculdade, cada grupo teve que fazer uma empresa. Para mais detalhes, clicar no botão abaixo.
+ 
+<a href="https://drive.google.com/file/d/1vTPbVhIGbE3b7sOLe5hRzvFsylipH6u4/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
 
-- Website: [evander.vercel.app](https://evander.vercel.app/)
+- Website: [https://fortech-lyart.vercel.app](https://fortech-lyart.vercel.app)
 
-## 🚀 Tecnologias
+## 🚀 Linguagens
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes Linguagens:
 
-- NextJS
-- TypeScript
-- Styled Components
+  <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
+  <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
 
 ## 📚 Bibliotecas
 
@@ -38,20 +40,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <p align="left">
 
- <a href="https://www.linkedin.com/in/evander-inacio" alt="Linkedin">
+ <a href="https://www.linkedin.com/in/lucaslopesdasilva/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/evander-inacio"/> 
  </a>
   
- <a href="https://www.facebook.com/evandder.lopes" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-000?style=for-the-badge&logo=Facebook&logoColor=000dff&link=https://www.facebook.com/evandder.lopes"/> 
- </a>
-  
- <a href="https://twitter.com/Evander_Inacio" alt="Twitter">
+ <a href="https://twitter.com/eoLucasS114" alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/Evander_Inacio"/> 
  </a>
 
- <a href="https://evander.vercel.app" alt="Portfolio">
-  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://www.evanderinacio.com/"/>
+ <a href="https://i.pinimg.com/originals/c3/a2/5d/c3a25dd8c9c80a6b0373bd56b1c77f6a.jpg" alt="Portfolio">
+  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://i.pinimg.com/originals/c3/a2/5d/c3a25dd8c9c80a6b0373bd56b1c77f6a.jpg"/>
  </a>
 
  </p>
@@ -60,10 +58,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/EvanderInacio">
-        <img src="https://avatars.githubusercontent.com/u/72362299?s=96&v=4" width="100px;" /><br>
+      <a href="https://github.com/eoLucasS">
+        <img src="https://cdn.discordapp.com/attachments/1049167666876776458/1049179325410312292/tdi.png" width="100px;" /><br>
         <sub>
-          <b>Evander Inácio</b>
+          <b>Lucas Lopes</b>
         </sub>
       </a>
     </td>
@@ -72,4 +70,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -----
 
-  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/evander-inacio/">Evander Inácio</a> ☕</h3>
+  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/lucaslopesdasilva/">Lucas Lopes</a> ☕</h3>
