@@ -20,7 +20,7 @@ Projeto feito em faculdade, cada grupo teve que fazer uma empresa. Para mais det
 
 - Website: [https://fortech-company.vercel.app](https://fortech-company.vercel.app)
 - Rede de computadores com cisco packet tracer: <a href="https://drive.google.com/file/d/1MmP6LThXOPGf8yaA8ckYnQMCXJqHGhCn/view?usp=share_link" target="_blank"> Clique aqui </a>
-- Docimentação: <a href="https://docs.google.com/document/d/12-5hNwbW04FYQ3tPe2bcXJ4WHYfMaQdb/edit?usp=sharing&ouid=113597437434226971330&rtpof=true&sd=true" target="_blank"> Clique aqui </a>  
+- Documentação: <a href="https://docs.google.com/document/d/12-5hNwbW04FYQ3tPe2bcXJ4WHYfMaQdb/edit?usp=sharing&ouid=113597437434226971330&rtpof=true&sd=true" target="_blank"> Clique aqui </a>  
 
 ## 🚀 Linguagens
 
