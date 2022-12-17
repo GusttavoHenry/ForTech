@@ -19,7 +19,9 @@ Projeto feito em faculdade, cada grupo teve que fazer uma empresa. Para mais det
 <a href="https://drive.google.com/file/d/1vTPbVhIGbE3b7sOLe5hRzvFsylipH6u4/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
 
 - Website: [https://fortech-company.vercel.app](https://fortech-company.vercel.app)
-- Rede de computadores com cisco packet tracer <a>https://discord.com/channels/696922608343449611/696922608343449614/1053631204424941578 </a> 
+- Rede de computadores com cisco packet tracer: <a href="https://drive.google.com/file/d/1MmP6LThXOPGf8yaA8ckYnQMCXJqHGhCn/view?usp=share_link" target="_blank"> Clique aqui </a>
+<p> obs: é necessário que você tenha o packet tracer baixado para poder vizualizar o arquivo </p>
+- Docimentação:  
 
 ## 🚀 Linguagens
 
