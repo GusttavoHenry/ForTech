@@ -44,11 +44,11 @@ Esse projeto foi desenvolvido com as seguintes Linguagens:
   <img src="https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/evander-inacio"/> 
  </a>
 
- <a href="https://i.pinimg.com/originals/c3/a2/5d/c3a25dd8c9c80a6b0373bd56b1c77f6a.jpg" alt="Portfolio">
+ <a href="https://gusttavohenry.github.io/Meu-portifolio/index.html" alt="Portfolio">
   <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://i.pinimg.com/originals/c3/a2/5d/c3a25dd8c9c80a6b0373bd56b1c77f6a.jpg"/>
  </a>
 
- </p>
+</p>
  
 ## 💻 Autor<br>
 <table>
@@ -66,4 +66,4 @@ Esse projeto foi desenvolvido com as seguintes Linguagens:
 
 -----
 
-  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/lucaslopesdasilva/">Lucas Lopes</a> ☕</h3>
+  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/gustavo-henrique-375aba214/">Gustavo Henrique</a> ☕</h3>
